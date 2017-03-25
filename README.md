@@ -1,4 +1,12 @@
+# ViewPager-TabLayout
+
 Miwok App
+
+Language-Translation app
+app converts miwok numbers, phrases, family names and colors into english language.
+Audio included
+View pager and tab layout implemented for easy swapping.
+
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
@@ -45,3 +53,5 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
